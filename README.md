@@ -1,4 +1,4 @@
-# Python Port Scanner
+# Port Scanner
 
 This Python script scans open ports on a target IP address and identifies common services running on those ports. It includes the option to scan only common ports and provides verbose output for debugging.
 
